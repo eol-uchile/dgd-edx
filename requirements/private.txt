@@ -2,7 +2,7 @@
 -e git+https://github.com/fdns/edx-ora2.git@a020c510a5e3c0efd21c04df608b46cd4b640b09#egg=ora2
 -e git+https://github.com/raccoongang/edx_xblock_scorm.git@1fffcccc3584be04683b64a665174f9e6fc4d8a6#egg=scormxblock-xblock
 -e git+https://github.com/eol-uchile/eol_completion@2b0818258d27dd0ff3d3264e62366e1534f0e79f#egg=eol_completion
--e git+https://github.com/eol-uchile/claveunica-edx@03574bba7cc4c253a3c0868c20a8650c9523ae2e#egg=claveunica
+-e git+https://github.com/eol-uchile/claveunica-edx@8b5232ed755523cadf19d7aea7dbf77d345eba50#egg=claveunica
 fluent-logger==0.9.3
 python-json-logger==0.1.11
 
