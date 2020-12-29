@@ -5,4 +5,4 @@
 -e git+https://github.com/eol-uchile/claveunica-edx@8b5232ed755523cadf19d7aea7dbf77d345eba50#egg=claveunica
 fluent-logger==0.9.6
 python-json-logger==0.1.11
-text-unidecode==1.2
+unidecode==1.1.2
